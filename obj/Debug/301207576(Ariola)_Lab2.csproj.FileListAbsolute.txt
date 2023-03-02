@@ -1,0 +1,12 @@
+C:\Users\venzo\OneDrive - Centennial College\Desktop\WINTER 2023\PROGRAMMING 3\WEEK 2\301207576(Ariola)_Lab2\bin\Debug\301207576(Ariola)_Lab2.exe.config
+C:\Users\venzo\OneDrive - Centennial College\Desktop\WINTER 2023\PROGRAMMING 3\WEEK 2\301207576(Ariola)_Lab2\bin\Debug\301207576(Ariola)_Lab2.exe
+C:\Users\venzo\OneDrive - Centennial College\Desktop\WINTER 2023\PROGRAMMING 3\WEEK 2\301207576(Ariola)_Lab2\bin\Debug\301207576(Ariola)_Lab2.pdb
+C:\Users\venzo\OneDrive - Centennial College\Desktop\WINTER 2023\PROGRAMMING 3\WEEK 2\301207576(Ariola)_Lab2\obj\Debug\301207576(Ariola)_Lab2.csproj.AssemblyReference.cache
+C:\Users\venzo\OneDrive - Centennial College\Desktop\WINTER 2023\PROGRAMMING 3\WEEK 2\301207576(Ariola)_Lab2\obj\Debug\_301207576_Ariola__Lab2.frmNotificationManager.resources
+C:\Users\venzo\OneDrive - Centennial College\Desktop\WINTER 2023\PROGRAMMING 3\WEEK 2\301207576(Ariola)_Lab2\obj\Debug\_301207576_Ariola__Lab2.Properties.Resources.resources
+C:\Users\venzo\OneDrive - Centennial College\Desktop\WINTER 2023\PROGRAMMING 3\WEEK 2\301207576(Ariola)_Lab2\obj\Debug\301207576(Ariola)_Lab2.csproj.GenerateResource.cache
+C:\Users\venzo\OneDrive - Centennial College\Desktop\WINTER 2023\PROGRAMMING 3\WEEK 2\301207576(Ariola)_Lab2\obj\Debug\301207576(Ariola)_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\venzo\OneDrive - Centennial College\Desktop\WINTER 2023\PROGRAMMING 3\WEEK 2\301207576(Ariola)_Lab2\obj\Debug\301207576(Ariola)_Lab2.exe
+C:\Users\venzo\OneDrive - Centennial College\Desktop\WINTER 2023\PROGRAMMING 3\WEEK 2\301207576(Ariola)_Lab2\obj\Debug\301207576(Ariola)_Lab2.pdb
+C:\Users\venzo\OneDrive - Centennial College\Desktop\WINTER 2023\PROGRAMMING 3\WEEK 2\301207576(Ariola)_Lab2\obj\Debug\_301207576_Ariola__Lab2.frmManageSubscription.resources
+C:\Users\venzo\OneDrive - Centennial College\Desktop\WINTER 2023\PROGRAMMING 3\WEEK 2\301207576(Ariola)_Lab2\obj\Debug\_301207576_Ariola__Lab2.frmPublishNotification.resources
